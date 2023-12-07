@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-analytics",
+    "name": "brahimbim/laravel-analytics",
     "description": "A Laravel package to retrieve Google Analytics data.",
     "keywords": [
         "spatie",
