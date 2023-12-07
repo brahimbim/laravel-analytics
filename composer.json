@@ -1,6 +1,6 @@
 {
-    "name": "spatie/laravel-analytics",
-    "description": "A Laravel package to retrieve Google Analytics data.",
+    "name": "brahimbim/laravel-analytics-bugfix",
+    "description": "A Laravel package to retrieve Google Analytics data, with a bugfix for Laravel 8 and PHP 8",
     "keywords": [
         "spatie",
         "google",
@@ -9,13 +9,13 @@
         "reports",
         "laravel"
     ],
-    "homepage": "https://github.com/spatie/laravel-analytics",
+    "homepage": "https://github.com/brahimbim/laravel-analytics",
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
+            "name": "Brahim Bim",
+            "email": "brahimbim@example.com",
+            "homepage": "https://example.com",
             "role": "Developer"
         }
     ],
@@ -24,7 +24,7 @@
         "google/analytics-data": "^0.9.4",
         "laravel/framework": "^8.0",
         "nesbot/carbon": "^2.66",
-        "spatie/laravel-package-tools": "^1.13.7",
+        "spatie/laravel-package-tools": "^1.12.1",
         "symfony/cache": "^6.0"
     },
     "require-dev": {
